@@ -1,7 +1,9 @@
 # Social-Network-API
 
-# video
- <img src= "./images/img_6398.GIF" />
+
+💻 Below is a video of the application:
+  
+![social-network-api](./assets/users.gif)
 
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
