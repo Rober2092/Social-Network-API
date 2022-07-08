@@ -6,7 +6,6 @@
 ![social-network-api](./assets/users.gif)
 
 
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
  
 ## Description
 🔍 an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list.
@@ -46,7 +45,7 @@ npm run watch
 
 
 ## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+
 <br />
 This application is covered by the MIT license. 
 ## Contributing
