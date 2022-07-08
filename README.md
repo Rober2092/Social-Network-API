@@ -44,15 +44,11 @@ npm run watch
 
 
 
-## License
 
-<br />
-This application is covered by the MIT license. 
 ## Contributing
 hugo Alvarado
 ## Tests
-✏️ npm install jest --save-dev
-
+none
 
 
 ## Questions
